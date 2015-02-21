@@ -32,5 +32,5 @@ The format to create the XML patch for An is as follows <a href=https://bpaste.n
 I developed this program entierly on OS X, and although I don't remember integrating any OS X-specific stuff into the program, there may be some things that I don't know about. If you find any of these things (or the program just acts up in any way), tell us what happened and we'll look into it.
 
 
-Happy hacking!
-- The Reggie Next Team
+Happy hacking!<br>
+-- The Reggie Next Team

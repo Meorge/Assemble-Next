@@ -39,7 +39,7 @@
      </rect>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>1</number>
     </property>
     <widget class="QWidget" name="memhax">
      <property name="enabled">
@@ -410,7 +410,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Private Beta 1</string>
+       <string>Public Beta 1</string>
       </property>
      </widget>
      <widget class="QLabel" name="label_4">
@@ -433,9 +433,7 @@ John10v10, Kinnay, Zementblock,
  Ban-omb, and the
  rest of the Reggie Next Team.
 
-This project is in private beta;
- please don't share it with 
-anyone outside of the Reggie Next Team.</string>
+</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -450,8 +448,6 @@ anyone outside of the Reggie Next Team.</string>
    </property>
   </action>
  </widget>
- <resources>
-  <include location="../../../Users/Malcolm/Desktop/Photoshop Projects/new rn/right size assemble.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

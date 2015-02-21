@@ -33,4 +33,4 @@ I developed this program entierly on OS X, and although I don't remember integra
 
 
 Happy hacking!<br>
--- The Reggie Next Team
+-- The Assemble Next Team

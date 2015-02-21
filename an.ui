@@ -39,7 +39,7 @@
      </rect>
     </property>
     <property name="currentIndex">
-     <number>1</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="memhax">
      <property name="enabled">
@@ -278,10 +278,10 @@
        <enum>QAbstractSpinBox::UpDownArrows</enum>
       </property>
       <property name="minimum">
-       <double>-50.000000000000000</double>
+       <double>-9999.000000000000000</double>
       </property>
       <property name="maximum">
-       <double>50.000000000000000</double>
+       <double>9999.000000000000000</double>
       </property>
       <property name="singleStep">
        <double>1.000000000000000</double>

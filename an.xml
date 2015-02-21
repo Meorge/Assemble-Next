@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<hacks>
+    <category name="Mario Physics">
+        <hack name="Jump Height" description="The height ratio that Mario, Luigi, and the Toads can jump at. Default is 3.628.">
+            <modifier type="float" name="Height" addressntsc="0x80001800" addresspal="0x80001800" />
+        </hack>
+        <hack name="Extend Lives Limit" description="Allow players to have more than 99 lives.">
+            <modifier type="int" name="Maximum Lives" addressntsc="0x80427900" addresspal="0x80427C00" addressjpn="0x80427680" />
+        </hack>
+        <!--<hack name="Running Speed" description="The speed that players run at.">
+            <modifier type="float" name="Speed" address="0x802ee978" />
+        </hack>
+        <hack name="Slide Distance" description="The distance that players slide once they stop dashing. Unfinished.">
+        </hack>
+        <hack name="Wall-Slide Distance" description="The distance that players slide down walls. Unfinished.">
+        </hack>-->
+        <!--<hack name="Power-Up Form" description="The form of the player power-ups. Unfinished.">
+            <modifier type="choose" name="something" addressntsc="0x80001800">
+                <choice name="
+        </hack>-->
+    </category>
+</hacks>

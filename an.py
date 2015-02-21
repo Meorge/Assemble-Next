@@ -104,7 +104,7 @@ class Window(QtWidgets.QMainWindow):
         
         # Update our offset
         addressntsc = self.listWidget.currentItem().data(QtCore.Qt.UserRole).modifiers[0].addrNTSC
-        addresspal = self.listWidget.currentItem().data(QtCore.Qt.UserRole).modifiers[0].addrNTSC
+        addresspal = self.listWidget.currentItem().data(QtCore.Qt.UserRole).modifiers[0].addrPAL
 		# original = self.listWidget.currentItem().data(QtCore.Qt.UserRole).modifiers[0].orig
         print(addressntsc)
         

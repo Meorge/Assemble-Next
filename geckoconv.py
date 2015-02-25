@@ -1,2 +1,0 @@
-def geckotoan(gecko):
-	break
